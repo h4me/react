@@ -1,0 +1,37 @@
+#boxdiv {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+   
+    
+}
+
+input[type="text"] {
+    border: 1px solid red;
+    float : right;
+    width: 100px;
+  
+    
+}
+
+
+input[type="password"] {
+    border: 1px solid red;
+    width: 100px;
+    float : right;
+   
+}
+
+.clear {
+
+clear: both;
+
+}
+
+
+.prompt {
+    display: inline-block;
+    border: 1px solid black;
+    width: 30%;
+}
